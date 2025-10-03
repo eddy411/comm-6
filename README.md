@@ -1,15 +1,15 @@
-# # Titanic Survival Prediction 🚢
+# 📧 Spam Detector
 
-This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
+This project uses Naive Bayes to classify SMS messages as spam or not spam
 
 ## Project Structure
 - `notebooks/` → Jupyter notebooks for experiments
-- `src/` → Python scripts
-- `data/` → Dataset (Titanic CSV)
+- `src/` → Training & prediction scripts
+- `data/` → Dataset (Spam CSV)
 - `requirements.txt` → Dependencies
 
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/titanic-ml.git
-   cd titanic-ml
+   git clone https://github.com/eddy411/spam-detector.git
+   cd spam-detector
